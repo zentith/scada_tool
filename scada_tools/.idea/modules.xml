@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mail_tool/.idea/mail_tool.iml" filepath="$PROJECT_DIR$/../mail_tool/.idea/mail_tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scada_tools.iml" filepath="$PROJECT_DIR$/.idea/scada_tools.iml" />
+    </modules>
+  </component>
+</project>
+
